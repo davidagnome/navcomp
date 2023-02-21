@@ -1,6 +1,6 @@
 module.exports = {
   pwa: {
-    name: 'COMP/CON',
+    name: 'NAVCOMP',
     themeColor: '#991E2A',
     iconPaths: {
       favicon16: 'img/icons/favicon-16x16.png',

@@ -1,8 +1,8 @@
 {
-  "name": "compcon",
+  "name": "navcomp",
   "version": "2.3.11",
-  "description": "A digital toolkit for the LANCER TTRPG",
-  "author": "Massif Press",
+  "description": "A digital toolkit for the STAR WARS TTRPG",
+  "author": "davidagnome",
   "scripts": {
     "serve": "vue-cli-service serve",
     "serve-https": "vue-cli-service serve --https",

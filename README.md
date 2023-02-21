@@ -14,14 +14,14 @@
 
 ## Features (In Development)
 
-[ ] Character & mech creation
-  [ ] Active Play Mode for status tracking during sessions
-[ ] Compendium
-[ ] Encounter Toolkit for GMs
-  [ ] NPC Roster
-  [ ] Encounter Builder
-  [ ] Mission Builder
-[ ] Homebrew Support
+- [ ] Character Creation
+- [ ] Active Play Mode for status tracking during sessions
+- [ ] Compendium (might be the trickiest)
+- [ ] Encounter Toolkit for GMs
+- [ ] NPC Roster
+- [ ] Encounter Builder
+- [ ] Mission Builder
+- [ ] Homebrew Support
 
 ## Forked Contributors(from COMP/CON)
 
